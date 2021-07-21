@@ -65,7 +65,7 @@
     "sanitize-filename": "^1.6.3",
     "styled-components": "^5.2.1",
     "styled-media-query": "^2.1.2",
-    "unified": "^9.2.0"
+    "unified": "^10.0.1"
   },
   "prettier": "@nzws/prettier-config"
 }
